@@ -95,6 +95,8 @@ Open a pull request
 
 This project is licensed under the MIT License – feel free to use and modify it.
 
+#output#  : ![Image](https://github.com/user-attachments/assets/02e86c7e-999a-4684-8843-569c97424704)
+
 👤 Author
 
 Vijaya
